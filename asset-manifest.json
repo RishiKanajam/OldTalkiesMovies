@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/OldtalkiesMovies/static/css/main.85fa717a.chunk.css",
-    "main.js": "/OldtalkiesMovies/static/js/main.690cf7d9.chunk.js",
-    "main.js.map": "/OldtalkiesMovies/static/js/main.690cf7d9.chunk.js.map",
-    "runtime-main.js": "/OldtalkiesMovies/static/js/runtime-main.43ba0a83.js",
-    "runtime-main.js.map": "/OldtalkiesMovies/static/js/runtime-main.43ba0a83.js.map",
-    "static/css/2.25dc03cb.chunk.css": "/OldtalkiesMovies/static/css/2.25dc03cb.chunk.css",
-    "static/js/2.058c4961.chunk.js": "/OldtalkiesMovies/static/js/2.058c4961.chunk.js",
-    "static/js/2.058c4961.chunk.js.map": "/OldtalkiesMovies/static/js/2.058c4961.chunk.js.map",
-    "index.html": "/OldtalkiesMovies/index.html",
-    "static/css/2.25dc03cb.chunk.css.map": "/OldtalkiesMovies/static/css/2.25dc03cb.chunk.css.map",
-    "static/css/main.85fa717a.chunk.css.map": "/OldtalkiesMovies/static/css/main.85fa717a.chunk.css.map",
-    "static/js/2.058c4961.chunk.js.LICENSE.txt": "/OldtalkiesMovies/static/js/2.058c4961.chunk.js.LICENSE.txt",
-    "static/media/boxicons.min.css": "/OldtalkiesMovies/static/media/boxicons.cbd149c5.ttf",
-    "static/media/footer-bg.4880e38d.png": "/OldtalkiesMovies/static/media/footer-bg.4880e38d.png",
-    "static/media/tmovie.ad0fc74a.png": "/OldtalkiesMovies/static/media/tmovie.ad0fc74a.png"
+    "main.css": "./static/css/main.a0e1d7d3.chunk.css",
+    "main.js": "./static/js/main.690cf7d9.chunk.js",
+    "main.js.map": "./static/js/main.690cf7d9.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.52ae982f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.52ae982f.js.map",
+    "static/css/2.25dc03cb.chunk.css": "./static/css/2.25dc03cb.chunk.css",
+    "static/js/2.058c4961.chunk.js": "./static/js/2.058c4961.chunk.js",
+    "static/js/2.058c4961.chunk.js.map": "./static/js/2.058c4961.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.25dc03cb.chunk.css.map": "./static/css/2.25dc03cb.chunk.css.map",
+    "static/css/main.a0e1d7d3.chunk.css.map": "./static/css/main.a0e1d7d3.chunk.css.map",
+    "static/js/2.058c4961.chunk.js.LICENSE.txt": "./static/js/2.058c4961.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "./static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.4880e38d.png": "./static/media/footer-bg.4880e38d.png",
+    "static/media/tmovie.ad0fc74a.png": "./static/media/tmovie.ad0fc74a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.43ba0a83.js",
+    "static/js/runtime-main.52ae982f.js",
     "static/css/2.25dc03cb.chunk.css",
     "static/js/2.058c4961.chunk.js",
-    "static/css/main.85fa717a.chunk.css",
+    "static/css/main.a0e1d7d3.chunk.css",
     "static/js/main.690cf7d9.chunk.js"
   ]
 }
